@@ -1,0 +1,20 @@
+body {
+  background-color: goldenrod;
+
+}
+h1 {
+  color: blue;
+  text-shadow: 3px 1px 4px white;
+}
+.container {
+  max-width: 600px;
+}
+.btn {
+  background: blue;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn:focus {
+  outline: none !important;
+}
